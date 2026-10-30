@@ -7,13 +7,13 @@ updates. Everything beyond that is an add-on you pick: media, dev boxes, notes, 
 game servers, themes, or something you build yourself and share with everyone.
 
 <p align="center">
-  <img src="https://github.com/bastionlab/core/raw/main/docs/screenshots/home-desktop-bastion.webp" alt="Bastion Home on a desktop" width="100%">
+  <img src="https://github.com/bastionlab/.github/raw/main/profile/assets/home-desktop-bastion.webp" alt="Bastion Home on a desktop" width="100%">
 </p>
 <p align="center">
-  <img src="https://github.com/bastionlab/core/raw/main/docs/screenshots/home-phone-bastion.webp" alt="Home on a phone" width="24%">
-  <img src="https://github.com/bastionlab/core/raw/main/docs/screenshots/metrics-phone-bastion.webp" alt="Metrics on a phone" width="24%">
-  <img src="https://github.com/bastionlab/core/raw/main/docs/screenshots/addons-phone-bastion.webp" alt="The add-on marketplace" width="24%">
-  <img src="https://github.com/bastionlab/core/raw/main/docs/screenshots/hero-bastion.gif" alt="Moving through the app on a phone" width="24%">
+  <img src="https://github.com/bastionlab/.github/raw/main/profile/assets/home-phone-bastion.webp" alt="Home on a phone" width="24%">
+  <img src="https://github.com/bastionlab/.github/raw/main/profile/assets/metrics-phone-bastion.webp" alt="Metrics on a phone" width="24%">
+  <img src="https://github.com/bastionlab/.github/raw/main/profile/assets/addons-phone-bastion.webp" alt="The add-on marketplace" width="24%">
+  <img src="https://github.com/bastionlab/.github/raw/main/profile/assets/hero-bastion.gif" alt="Moving through the app on a phone" width="24%">
 </p>
 
 **Try it without a server:** `git clone https://github.com/bastionlab/core && cd core && demo/run`, then open
