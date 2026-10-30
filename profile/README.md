@@ -6,6 +6,19 @@ Bastion shows what your machine is doing and lets you act on it safely: containe
 updates. Everything beyond that is an add-on you pick: media, dev boxes, notes, local AI, finders, finance,
 game servers, themes, or something you build yourself and share with everyone.
 
+<p align="center">
+  <img src="https://github.com/bastionlab/core/raw/main/docs/screenshots/home-desktop.webp" alt="Bastion Home on a desktop" width="100%">
+</p>
+<p align="center">
+  <img src="https://github.com/bastionlab/core/raw/main/docs/screenshots/home-phone.webp" alt="Home on a phone" width="24%">
+  <img src="https://github.com/bastionlab/core/raw/main/docs/screenshots/metrics-phone.webp" alt="Metrics on a phone" width="24%">
+  <img src="https://github.com/bastionlab/core/raw/main/docs/screenshots/addons-phone.webp" alt="The add-on marketplace" width="24%">
+  <img src="https://github.com/bastionlab/core/raw/main/docs/screenshots/hero.gif" alt="Moving through the app on a phone" width="24%">
+</p>
+
+**Try it without a server:** `git clone https://github.com/bastionlab/core && cd core && demo/run`, then open
+http://127.0.0.1:3000 (Node 22, sample data).
+
 ## Why Bastion
 
 - **Small core, open marketplace.** The core is Home, Metrics, Add-ons and Settings. Every other feature is an
